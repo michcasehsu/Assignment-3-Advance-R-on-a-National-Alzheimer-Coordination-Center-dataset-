@@ -7,7 +7,7 @@
 ```{r}
 library(sas7bdat)
 
-  hw3data <- read.sas7bdat("C:/Users/miche/Downloads/exercise1.sas7bdat")
+  hw3data <- read.sas7bdat("C:/Users/miche/Documents/exercise1.sas7bdat")
 ```
 
 #2) Create Normal Dataset; NACCUDSD = 1

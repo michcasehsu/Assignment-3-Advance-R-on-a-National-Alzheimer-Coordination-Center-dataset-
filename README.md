@@ -1,14 +1,7 @@
-
-
-
 #Assignment-3
 #Advanced R Review
 #Dataset:National Alzheimer Coordination Center 
-
-
 #BS 803 Statistical Programming for Biostatisticians
-#Michelle C. Hsu
-#September 23, 2018
 
 #1) Read in SAS Dataset Using ‘sas7bdat’ Package
 ```{r}

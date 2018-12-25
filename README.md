@@ -1,5 +1,5 @@
 #Assignment-3
-#Advanced R Review
+#Intermediate R Review
 #Dataset:National Alzheimer Coordination Center 
 #BS 803 Statistical Programming for Biostatisticians
 
